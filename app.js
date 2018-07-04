@@ -14,7 +14,6 @@ function celsToFahr(celsTemp) {
    
 */
 
-// tests
 
 function testConversion(fn, input, expected) {
   if (fn(input) === expected) {
